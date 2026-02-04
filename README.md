@@ -12,13 +12,15 @@
 
 Organise the cutlery drawer by making custom 3D printed inserts to fit especific cutlery in the generic spaces already existing in the store-bough cutlery insert.
 
+![cubertero comprado](https://github.com/AlGepe/3d_cubertero_ajo/blob/main/store-bough%20insert.jpg?raw=true)
+
 ## Project breakdown
 
 ### Get dimensions [done]
 
 First we will take measurements of the store-bought insert and try to guess the curvature radius for each dimension. Perfect fit is not required: the aim is functional, no perfect.
 
-The measurements are stored in the corresponding files, each space has been named according to the following picture:
+The measurements are stored in the corresponding files, each space has been named according to the picture above.
 
 ### Validate dimensions IRL [partially done]
 
