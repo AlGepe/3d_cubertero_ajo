@@ -2,11 +2,11 @@
 3D designs for cutlery drawer at home
 
 ## Progress Overview
-✅Get dimensions
-✅Validate dimensions IRL
-⭕ Create cutouts
-⭕ Create full blocks
-⭕ Print everything
+- [x] Get dimensions
+- [x] Validate dimensions IRL
+- [ ] Create cutouts
+- [ ] Create full blocks
+- [ ] Print everything
 
 ## The goal
 
